@@ -1,1 +1,1 @@
-# .github
+# Hi, we're OpsWrangler 👋
